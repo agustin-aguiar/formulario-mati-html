@@ -1,0 +1,26 @@
+body {margin: 5px;}
+
+h1 {font-size: 48px;
+color: rgb(0, 68, 255);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h2,h3,h4,h5.h6 {font-size: 32px;
+}
+
+.parrafo {font-size: 48px;
+    color: green;
+    font-weight: lighter;
+    text-decoration:overline;line-height:0.5;
+    background-color:rgb(0, 255, 128) ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+.hola {font-size: 32px;
+    color: blueviolet;
+    font-weight:bold;
+    text-decoration:underline;
+    background-color:rgba(248, 0, 0, 0.692) ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.pie_de_pagina {font-size:48px ;
+        color: brown;
+        background-color: rgb(0, 162, 255);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
